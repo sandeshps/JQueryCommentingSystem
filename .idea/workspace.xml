@@ -1,0 +1,1051 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca2763e3-cff9-4d4d-90a4-e07d2d6d4374" name="Default" comment="" />
+    <ignored path="Comments.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="ca2763e3-cff9-4d4d-90a4-e07d2d6d4374" time="1372263391390" ignored="false" />
+    <file path="/styles.css" changelist="ca2763e3-cff9-4d4d-90a4-e07d2d6d4374" time="1372263130009" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Comments" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="7" selection-start="392" selection-end="392" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.commetingsystem.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jquery.commetingsystem.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="39" selection-start="674" selection-end="674" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1372263115219" expanded="true" signature="310:859" placeholder="..." />
+                <marker date="1372263115219" expanded="true" signature="310:672" placeholder="..." />
+                <marker date="1372263115219" expanded="true" signature="358:434" placeholder="..." />
+                <marker date="1372263115219" expanded="true" signature="482:583" placeholder="..." />
+                <marker date="1372263115219" expanded="true" signature="631:708" placeholder="..." />
+                <marker date="1372263115219" expanded="true" signature="631:672" placeholder="..." />
+                <marker date="1372263115219" expanded="true" signature="756:858" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="24" selection-start="144" selection-end="144" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1372263132424" expanded="true" signature="24:77" placeholder="{...}" />
+                <marker date="1372263132424" expanded="true" signature="49:77" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="38" selection-start="86" selection-end="86" vertical-scroll-proportion="0.3715847">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/jquery.commetingsystem.js" />
+        <option value="$PROJECT_DIR$/styles.css" />
+        <option value="$PROJECT_DIR$/script.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Comments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Comments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CommentingSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="FullScreen" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca2763e3-cff9-4d4d-90a4-e07d2d6d4374" name="Default" comment="" />
+      <created>1371551867293</created>
+      <updated>1371551867293</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1371552018420</created>
+      <updated>1371552018420</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Basic structure done">
+      <created>1371552126003</created>
+      <updated>1371552126003</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Basic structure done">
+      <created>1371552509444</created>
+      <updated>1371552509444</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added styles">
+      <created>1371554513218</created>
+      <updated>1371554513218</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Form design created">
+      <created>1371555016906</created>
+      <updated>1371555016906</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Changed styles">
+      <created>1371555443095</created>
+      <updated>1371555443095</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Form design done">
+      <created>1371555455665</created>
+      <updated>1371555455665</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Basic design done">
+      <created>1371556029611</created>
+      <updated>1371556029611</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Written jQuery plugin template">
+      <created>1371556736371</created>
+      <updated>1371556736371</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Script written">
+      <created>1371557360875</created>
+      <updated>1371557360875</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Design Finished">
+      <created>1371557371921</created>
+      <updated>1371557371921</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Design Finished">
+      <created>1371557882016</created>
+      <updated>1371557882016</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Script under construction">
+      <created>1371557896591</created>
+      <updated>1371557896591</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Design finished">
+      <created>1371558034450</created>
+      <updated>1371558034450</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Script modified">
+      <created>1371558656479</created>
+      <updated>1371558656479</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Design Finished">
+      <created>1371558668135</created>
+      <updated>1371558668135</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Design Finished">
+      <created>1371558940267</created>
+      <updated>1371558940267</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Script modified">
+      <created>1371558951325</created>
+      <updated>1371558951325</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Script modified">
+      <created>1371559363270</created>
+      <updated>1371559363270</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Design under construction">
+      <created>1371559383957</created>
+      <updated>1371559383957</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Script under construction">
+      <created>1371560266331</created>
+      <updated>1371560266332</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Design ready">
+      <created>1371560685053</created>
+      <updated>1371560685053</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Script finished">
+      <created>1371560702957</created>
+      <updated>1371560702957</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Styles added">
+      <created>1371560713487</created>
+      <updated>1371560713487</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Updating the design">
+      <created>1371564805115</created>
+      <updated>1371564805115</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Updating the script">
+      <created>1371564816545</created>
+      <updated>1371564816545</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Updating">
+      <created>1371565291510</created>
+      <updated>1371565291510</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Updating">
+      <created>1371565504824</created>
+      <updated>1371565504824</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Script modified">
+      <created>1371565766599</created>
+      <updated>1371565766599</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Script modified">
+      <created>1371565829839</created>
+      <updated>1371565829839</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Script modified">
+      <created>1371565976071</created>
+      <updated>1371565976071</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Script modified">
+      <created>1371566316387</created>
+      <updated>1371566316387</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Script modified">
+      <created>1371567956047</created>
+      <updated>1371567956047</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Script modified">
+      <created>1371570035812</created>
+      <updated>1371570035812</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Design modified">
+      <created>1371570933901</created>
+      <updated>1371570933901</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Script modified">
+      <created>1371570946570</created>
+      <updated>1371570946570</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Script modified">
+      <created>1371571216917</created>
+      <updated>1371571216917</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Script modified">
+      <created>1371572771343</created>
+      <updated>1371572771343</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Script modified">
+      <created>1371574134662</created>
+      <updated>1371574134662</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Script modified">
+      <created>1371606597625</created>
+      <updated>1371606597625</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Divider added for testing">
+      <created>1371606649304</created>
+      <updated>1371606649304</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Created modules">
+      <created>1371695603341</created>
+      <updated>1371695603341</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Created modules">
+      <created>1371696086944</created>
+      <updated>1371696086944</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Created modules. Writing code for displaying comments, comments form, and reply link">
+      <created>1371702543791</created>
+      <updated>1371702543791</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Updated modules. Writing code for displaying comments, comments form, and reply link">
+      <created>1371705698874</created>
+      <updated>1371705698874</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Modified">
+      <created>1371705717688</created>
+      <updated>1371705717688</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Updating script">
+      <created>1371711325084</created>
+      <updated>1371711325084</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Updating script">
+      <created>1371711365954</created>
+      <updated>1371711365954</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Updating script">
+      <created>1371712942249</created>
+      <updated>1371712942250</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Updating script">
+      <created>1371745279938</created>
+      <updated>1371745279938</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Updating script">
+      <created>1371823967536</created>
+      <updated>1371823967536</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Updating script">
+      <created>1371824197129</created>
+      <updated>1371824197129</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Added style">
+      <created>1371825188218</created>
+      <updated>1371825188218</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Updating script">
+      <created>1371825194899</created>
+      <updated>1371825194899</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Added design module">
+      <created>1371825208501</created>
+      <updated>1371825208501</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Updating script">
+      <created>1371825722458</created>
+      <updated>1371825722458</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Updating script">
+      <created>1371826567311</created>
+      <updated>1371826567311</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Modifying design">
+      <created>1371826579648</created>
+      <updated>1371826579648</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Updating script">
+      <created>1371827135001</created>
+      <updated>1371827135001</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Updating script">
+      <created>1371829562575</created>
+      <updated>1371829562575</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Updating script">
+      <created>1371834167574</created>
+      <updated>1371834167574</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Updating design">
+      <created>1371834184078</created>
+      <updated>1371834184078</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Modifying modules">
+      <created>1371875820068</created>
+      <updated>1371875820068</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Modifying design">
+      <created>1371875863134</created>
+      <updated>1371875863134</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Modifying script">
+      <created>1371877309937</created>
+      <updated>1371877309937</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Modifying script">
+      <created>1371881318232</created>
+      <updated>1371881318232</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Modifying design">
+      <created>1371881328976</created>
+      <updated>1371881328976</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Modifying script">
+      <created>1371885028491</created>
+      <updated>1371885028491</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Re-writing the script">
+      <created>1371910657487</created>
+      <updated>1371910657487</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Removed IDs from all &lt;div&gt; tags">
+      <created>1371910692801</created>
+      <updated>1371910692802</updated>
+    </task>
+    <task id="LOCAL-00071" summary="Re-writing the script">
+      <created>1371912926625</created>
+      <updated>1371912926625</updated>
+    </task>
+    <task id="LOCAL-00072" summary="Re-writing the script">
+      <created>1371913486655</created>
+      <updated>1371913486655</updated>
+    </task>
+    <task id="LOCAL-00073" summary="Re-writing the script">
+      <created>1371913917094</created>
+      <updated>1371913917094</updated>
+    </task>
+    <task id="LOCAL-00074" summary="Re-writing the script">
+      <created>1371914215293</created>
+      <updated>1371914215293</updated>
+    </task>
+    <task id="LOCAL-00075" summary="Re-writing the script">
+      <created>1371916141084</created>
+      <updated>1371916141084</updated>
+    </task>
+    <task id="LOCAL-00076" summary="Re-writing the script">
+      <created>1371916494591</created>
+      <updated>1371916494591</updated>
+    </task>
+    <task id="LOCAL-00077" summary="Re-writing the script">
+      <created>1371917880050</created>
+      <updated>1371917880050</updated>
+    </task>
+    <task id="LOCAL-00078" summary="Re-writing the script">
+      <created>1371918906918</created>
+      <updated>1371918906918</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Link part working. Rest in construction">
+      <created>1371966795918</created>
+      <updated>1371966795918</updated>
+    </task>
+    <task id="LOCAL-00080" summary="Link part working. Rest in construction">
+      <created>1371966914763</created>
+      <updated>1371966914763</updated>
+    </task>
+    <task id="LOCAL-00081" summary="Link part working. Rest in construction. But when testing, the textboxes are not editable">
+      <created>1371967742910</created>
+      <updated>1371967742910</updated>
+    </task>
+    <task id="LOCAL-00082" summary="Modified design">
+      <created>1371967764910</created>
+      <updated>1371967764910</updated>
+    </task>
+    <task id="LOCAL-00083" summary="Script under construction">
+      <created>1372069793133</created>
+      <updated>1372069793133</updated>
+    </task>
+    <task id="LOCAL-00084" summary="Script under construction">
+      <created>1372071674223</created>
+      <updated>1372071674223</updated>
+    </task>
+    <task id="LOCAL-00085" summary="Commenting form display part working. Rest under construction">
+      <created>1372074368595</created>
+      <updated>1372074368596</updated>
+    </task>
+    <task id="LOCAL-00086" summary="Modified design">
+      <created>1372074381303</created>
+      <updated>1372074381303</updated>
+    </task>
+    <task id="LOCAL-00087" summary="Adding modules for displaying comments">
+      <created>1372076582196</created>
+      <updated>1372076582196</updated>
+    </task>
+    <task id="LOCAL-00088" summary="Adding modules for displaying comments">
+      <created>1372077116935</created>
+      <updated>1372077116935</updated>
+    </task>
+    <task id="LOCAL-00089" summary="Added modules">
+      <created>1372077147806</created>
+      <updated>1372077147807</updated>
+    </task>
+    <task id="LOCAL-00090" summary="Added class attribute for the part, which displays the comments">
+      <created>1372077187450</created>
+      <updated>1372077187450</updated>
+    </task>
+    <task id="LOCAL-00091" summary="Modified style for displaying comment">
+      <created>1372078226935</created>
+      <updated>1372078226935</updated>
+    </task>
+    <task id="LOCAL-00092" summary="Created modules. Form not displaying after each link">
+      <created>1372078255055</created>
+      <updated>1372078255055</updated>
+    </task>
+    <task id="LOCAL-00093" summary="Relocated the position for comment part">
+      <created>1372078284737</created>
+      <updated>1372078284737</updated>
+    </task>
+    <task id="LOCAL-00094" summary="Form not getting displayed after each link, except the first link">
+      <created>1372086781239</created>
+      <updated>1372086781239</updated>
+    </task>
+    <task id="LOCAL-00095" summary="Form not getting displayed after each link, except the first link">
+      <created>1372092840993</created>
+      <updated>1372092840993</updated>
+    </task>
+    <task id="LOCAL-00096" summary="Design modified">
+      <created>1372092851136</created>
+      <updated>1372092851136</updated>
+    </task>
+    <task id="LOCAL-00097" summary="Comment allignment ok. Reply link not appearing below each comment.">
+      <created>1372093234123</created>
+      <updated>1372093234123</updated>
+    </task>
+    <task id="LOCAL-00098" summary="Removed 'row' attribute from all elements">
+      <created>1372093270905</created>
+      <updated>1372093270905</updated>
+    </task>
+    <task id="LOCAL-00099" summary="Comment allignment ok. Link are getting created line by line, but click event not working. Delegate created for run-time click event, but not working">
+      <created>1372093662751</created>
+      <updated>1372093662751</updated>
+    </task>
+    <task id="LOCAL-00100" summary="Unknown bug in the code. Form not getting hidden, when the function to do the same is called">
+      <created>1372144013653</created>
+      <updated>1372144013653</updated>
+    </task>
+    <task id="LOCAL-00101" summary="Bug removed">
+      <created>1372145381340</created>
+      <updated>1372145381340</updated>
+    </task>
+    <task id="LOCAL-00102" summary="Unknown bug in the code. Form not getting hidden, when the function to do the same is called">
+      <created>1372149467737</created>
+      <updated>1372149467738</updated>
+    </task>
+    <task id="LOCAL-00103" summary="Bug removed">
+      <created>1372150204300</created>
+      <updated>1372150204300</updated>
+    </task>
+    <task id="LOCAL-00104" summary="Design modified">
+      <created>1372151159241</created>
+      <updated>1372151159241</updated>
+    </task>
+    <task id="LOCAL-00105" summary="Added one function to hold all the modules">
+      <created>1372151291843</created>
+      <updated>1372151291843</updated>
+    </task>
+    <task id="LOCAL-00106" summary="Script under updation">
+      <created>1372153123201</created>
+      <updated>1372153123201</updated>
+    </task>
+    <task id="LOCAL-00107" summary="Script under updation">
+      <created>1372163693744</created>
+      <updated>1372163693744</updated>
+    </task>
+    <task id="LOCAL-00108" summary="Updating the script">
+      <created>1372166304086</created>
+      <updated>1372166304086</updated>
+    </task>
+    <task id="LOCAL-00109" summary="Updating the script. Form part done">
+      <created>1372168243356</created>
+      <updated>1372168243356</updated>
+    </task>
+    <task id="LOCAL-00110" summary="Modified design">
+      <created>1372168290137</created>
+      <updated>1372168290137</updated>
+    </task>
+    <task id="LOCAL-00111" summary="Commenting part done">
+      <created>1372168982411</created>
+      <updated>1372168982411</updated>
+    </task>
+    <task id="LOCAL-00112" summary="Partially working">
+      <created>1372170508347</created>
+      <updated>1372170508347</updated>
+    </task>
+    <task id="LOCAL-00113" summary="Partially working">
+      <created>1372174498077</created>
+      <updated>1372174498077</updated>
+    </task>
+    <task id="LOCAL-00114" summary="Partially working">
+      <created>1372174508489</created>
+      <updated>1372174508489</updated>
+    </task>
+    <task id="LOCAL-00115" summary="Partially working">
+      <created>1372177379961</created>
+      <updated>1372177379962</updated>
+    </task>
+    <task id="LOCAL-00116" summary="Partially working">
+      <created>1372177385733</created>
+      <updated>1372177385733</updated>
+    </task>
+    <task id="LOCAL-00117" summary="Partially working">
+      <created>1372179252839</created>
+      <updated>1372179252839</updated>
+    </task>
+    <task id="LOCAL-00118" summary="Partially working">
+      <created>1372179262934</created>
+      <updated>1372179262934</updated>
+    </task>
+    <task id="LOCAL-00119" summary="Commit">
+      <created>1372179274600</created>
+      <updated>1372179274600</updated>
+    </task>
+    <task id="LOCAL-00120" summary="Partially working">
+      <created>1372179626881</created>
+      <updated>1372179626881</updated>
+    </task>
+    <task id="LOCAL-00121" summary="Partially working">
+      <created>1372180855295</created>
+      <updated>1372180855295</updated>
+    </task>
+    <task id="LOCAL-00122" summary="Script modification started">
+      <created>1372229968468</created>
+      <updated>1372229968468</updated>
+    </task>
+    <task id="LOCAL-00123" summary="Modifying all functions">
+      <created>1372231086662</created>
+      <updated>1372231086662</updated>
+    </task>
+    <task id="LOCAL-00124" summary="Comment part working. Link to be added">
+      <created>1372232754406</created>
+      <updated>1372232754406</updated>
+    </task>
+    <task id="LOCAL-00125" summary="Commenting system working. Need to remove, the extra comments are getting generated.">
+      <created>1372233937977</created>
+      <updated>1372233937977</updated>
+    </task>
+    <task id="LOCAL-00126" summary="Design modified">
+      <created>1372233950118</created>
+      <updated>1372233950118</updated>
+    </task>
+    <task id="LOCAL-00127" summary="Extra comments showing up after the comments">
+      <created>1372234813438</created>
+      <updated>1372234813438</updated>
+    </task>
+    <task id="LOCAL-00128" summary="Final">
+      <created>1372234823786</created>
+      <updated>1372234823786</updated>
+    </task>
+    <task id="LOCAL-00129" summary="Extra comments still showing up">
+      <created>1372236128265</created>
+      <updated>1372236128265</updated>
+    </task>
+    <task id="LOCAL-00130" summary="Bug of extra comments removed. Alignment to be corrected">
+      <created>1372238496795</created>
+      <updated>1372238496795</updated>
+    </task>
+    <task id="LOCAL-00131" summary="Added one extra link for the child comment">
+      <created>1372238521636</created>
+      <updated>1372238521636</updated>
+    </task>
+    <task id="LOCAL-00132" summary="Final Commit">
+      <created>1372240060210</created>
+      <updated>1372240060210</updated>
+    </task>
+    <task id="LOCAL-00133" summary="Final Commit">
+      <created>1372240068014</created>
+      <updated>1372240068014</updated>
+    </task>
+    <task id="LOCAL-00134" summary="Final Commit">
+      <created>1372240073289</created>
+      <updated>1372240073289</updated>
+    </task>
+    <task id="LOCAL-00135" summary="jQuery plugin for commenting system">
+      <created>1372253534650</created>
+      <updated>1372253534650</updated>
+    </task>
+    <task id="LOCAL-00136" summary="Testing file for plugin. The contents will be transferred to 'index.html' after successful completion of the code">
+      <created>1372253595616</created>
+      <updated>1372253595616</updated>
+    </task>
+    <task id="LOCAL-00137" summary="This file contains script, which will call the plugin">
+      <created>1372253762619</created>
+      <updated>1372253762620</updated>
+    </task>
+    <task id="LOCAL-00138" summary="Plugin script under construction">
+      <created>1372256021643</created>
+      <updated>1372256021643</updated>
+    </task>
+    <task id="LOCAL-00139" summary="Plugin script under construction">
+      <created>1372256911914</created>
+      <updated>1372256911914</updated>
+    </task>
+    <task id="LOCAL-00140" summary="Plugin script under construction">
+      <created>1372257497199</created>
+      <updated>1372257497199</updated>
+    </task>
+    <task id="LOCAL-00141" summary="Plugin script under construction">
+      <created>1372259973541</created>
+      <updated>1372259973541</updated>
+    </task>
+    <task id="LOCAL-00142" summary="Plugin script under construction">
+      <created>1372260622552</created>
+      <updated>1372260622552</updated>
+    </task>
+    <task id="LOCAL-00143" summary="Plugin script under construction">
+      <created>1372260805055</created>
+      <updated>1372260805055</updated>
+    </task>
+    <task id="LOCAL-00144" summary="Plugin script under construction">
+      <created>1372260866796</created>
+      <updated>1372260866796</updated>
+    </task>
+    <task id="LOCAL-00145" summary="Plugin script under construction">
+      <created>1372261723557</created>
+      <updated>1372261723557</updated>
+    </task>
+    <task id="LOCAL-00146" summary="Final Commit">
+      <created>1372262079833</created>
+      <updated>1372262079833</updated>
+    </task>
+    <task id="LOCAL-00147" summary="Final Commit">
+      <created>1372262098594</created>
+      <updated>1372262098594</updated>
+    </task>
+    <task id="LOCAL-00148" summary="Final Commit">
+      <created>1372262105748</created>
+      <updated>1372262105748</updated>
+    </task>
+    <task id="LOCAL-00149" summary="Final Commit">
+      <created>1372262247908</created>
+      <updated>1372262247908</updated>
+    </task>
+    <task id="LOCAL-00150" summary="Final Commit">
+      <created>1372263151637</created>
+      <updated>1372263151637</updated>
+    </task>
+    <option name="localTasksCounter" value="151" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24944155" sideWeight="0.6700855" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32820514" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final Commit" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="Bug removed" />
+    <MESSAGE value="Added one function to hold all the modules" />
+    <MESSAGE value="Script under updation" />
+    <MESSAGE value="Updating the script" />
+    <MESSAGE value="Updating the script. Form part done" />
+    <MESSAGE value="Modified design" />
+    <MESSAGE value="Commenting part done" />
+    <MESSAGE value="Commit" />
+    <MESSAGE value="Partially working" />
+    <MESSAGE value="Script modification started" />
+    <MESSAGE value="Modifying all functions" />
+    <MESSAGE value="Comment part working. Link to be added" />
+    <MESSAGE value="Commenting system working. Extra comments are getting generated. Need to remove" />
+    <MESSAGE value="Commenting system working. Need to remove, the extra comments are getting generated." />
+    <MESSAGE value="Design modified" />
+    <MESSAGE value="Extra comments showing up after the comments" />
+    <MESSAGE value="Final" />
+    <MESSAGE value="Extra comments still showing up" />
+    <MESSAGE value="Bug of extra comments removed. Alignment to be corrected" />
+    <MESSAGE value="Added one extra link for the child comment" />
+    <MESSAGE value="jQuery plugin for commenting system" />
+    <MESSAGE value="Testing file for plugin. The contents will be transferred to 'index.html' after successful completion of the code" />
+    <MESSAGE value="This file contains script, which will call the plugin" />
+    <MESSAGE value="Plugin script under construction" />
+    <MESSAGE value="Final Commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="36" selection-start="264" selection-end="264" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="30" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1372263132424" expanded="true" signature="24:77" placeholder="{...}" />
+            <marker date="1372263132424" expanded="true" signature="49:77" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="27" selection-start="294" selection-end="294" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="20" selection-start="56" selection-end="56" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1372263132424" expanded="true" signature="24:77" placeholder="{...}" />
+            <marker date="1372263132424" expanded="true" signature="49:77" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="20" selection-start="56" selection-end="56" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1372263132424" expanded="true" signature="24:77" placeholder="{...}" />
+            <marker date="1372263132424" expanded="true" signature="49:77" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="78" selection-start="349" selection-end="349" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="95" selection-start="1213" selection-end="1213" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="63" selection-start="520" selection-end="520" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="63" selection-start="429" selection-end="429" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="7" selection-start="392" selection-end="392" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery.commetingsystem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="39" selection-start="674" selection-end="674" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1372263115219" expanded="true" signature="310:859" placeholder="..." />
+            <marker date="1372263115219" expanded="true" signature="310:672" placeholder="..." />
+            <marker date="1372263115219" expanded="true" signature="358:434" placeholder="..." />
+            <marker date="1372263115219" expanded="true" signature="482:583" placeholder="..." />
+            <marker date="1372263115219" expanded="true" signature="631:708" placeholder="..." />
+            <marker date="1372263115219" expanded="true" signature="631:672" placeholder="..." />
+            <marker date="1372263115219" expanded="true" signature="756:858" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="24" selection-start="144" selection-end="144" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1372263132424" expanded="true" signature="24:77" placeholder="{...}" />
+            <marker date="1372263132424" expanded="true" signature="49:77" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="38" selection-start="86" selection-end="86" vertical-scroll-proportion="0.3715847">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

@@ -1,0 +1,15 @@
+.container {
+    margin-left:100px;
+    margin-right:100px;
+    border:0px;
+}
+
+.row {
+    clear:both;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+
+.comment {
+    margin-left:50px;
+} 
