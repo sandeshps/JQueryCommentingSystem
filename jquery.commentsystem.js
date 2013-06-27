@@ -39,7 +39,7 @@
                         <div class='comment row clink'> \
                             <a href='#'>Reply</a> \
                         </div>");                  
-                newform.insertAfter(e.currentTarget);                    
+                newform.insertAfter(e.currentTarget);  // Display the newly created form after the link                 
                 $(".clink").remove();  // Remove the link that appears below the form (Not required)
                 onPostButtonClick(); // When the user submits the form
                 });                     
