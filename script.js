@@ -2,7 +2,7 @@
 
 
 $(document).ready(function(){  
-    $(".commentingSystem").commentSystem();
+    $(".commentingSystem").commentSystem(); // call the plugin
 });
 
 

@@ -4,6 +4,7 @@
                 createContainer();
                 createLink();              
                 $(".container").on("click",".link",function(e){
+				    // Create a new form (commenting form) 
                     var newform = $("<div class='Form'> \
                             <div class='row'>\
                                 Name  \
@@ -40,13 +41,13 @@
                         </div>");                  
                 newform.insertAfter(e.currentTarget);                    
                 $(".clink").remove();  // Remove the link that appears below the form (Not required)
-                onPostButtonClick();
+                onPostButtonClick(); // When the user submits the form
                 });                     
             }
             
             
             
-        // Create container to hold all the things
+        // Create container to hold all the elements
         function createContainer(){
             $("body").append("<div class='container'></div>");
         }
@@ -76,12 +77,12 @@
             });
         }
         
-        // This function will display the comemnts
+        // This function will display the comments
         function displayComments(comment){   
-            var newcomment = $("<div class='comment row comments'></div>");
-            newcomment.text(comment);    
-            $(".link").append(newcomment);
-            var newlink = $("<div class='comment row commentlink'><a href='#'>Reply</a></div>");
-            newcomment.after(newlink);      
+            var newcomment = $("<div class='comment row comments'></div>"); // This will hold the comment
+            newcomment.text(comment);    // Append the comment
+            $(".link").append(newcomment); // Display the comment
+            var newlink = $("<div class='comment row commentlink'><a href='#'>Reply</a></div>"); // This will create a reply link below the comment
+            newcomment.after(newlink);      // Display the link
         }
         }(jQuery));
