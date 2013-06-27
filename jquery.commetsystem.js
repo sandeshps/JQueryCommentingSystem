@@ -39,7 +39,7 @@
                             <a href='#'>Reply</a> \
                         </div>");                  
                 newform.insertAfter(e.currentTarget);                    
-                $(".clink").remove();  
+                $(".clink").remove();  // Remove the link that appears below the form (Not required)
                 onPostButtonClick();
                 });                     
             }
